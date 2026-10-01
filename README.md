@@ -10,7 +10,7 @@ Programme Python qui génère les bulletins d'une classe de collège : saisie de
 
 ## Lancer le programme
 ```
-python Bulletins.py`
+python Bulletins.py
 ```
 
 ## Comment j'ai travaillé
