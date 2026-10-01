@@ -9,7 +9,9 @@ Programme Python qui génère les bulletins d'une classe de collège : saisie de
 - Classement par semestre et classement annuel
 
 ## Lancer le programme
-`python Bulletins.py`
+```
+python Bulletins.py`
+```
 
 ## Comment j'ai travaillé
 J'ai d'abord fait une version de base qui calcule les moyennes, puis je l'ai améliorée pour gérer deux semestres et la moyenne annuelle.
