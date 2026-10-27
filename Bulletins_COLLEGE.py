@@ -1,5 +1,5 @@
 # ======================================================
-#   BULLETINS DE FIN DE TRIMESTRE DES ELEVES
+#   BULLETINS DE FIN D'ANNEE DES ELEVES
 # ======================================================
 MAXIMUM = 20
 #Fonction notifiant les erreurs
